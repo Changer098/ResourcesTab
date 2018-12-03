@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
   ready();
 });
 var links = [
+  ["Team Resource URLs", "https://wiki.itap.purdue.edu/pages/viewpage.action?spaceKey=DNwiki&title=Team+Resource+URLs"],
   ["BlueCat", "https://hostmaster.itap.purdue.edu/"],
   ["Cacti","https://nettools.itns.purdue.edu/cacti/"],
   ["Cisco Prime","https://prime22.itns.purdue.edu/"],
