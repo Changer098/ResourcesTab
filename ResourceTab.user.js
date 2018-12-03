@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name     ResourceTab
+// @name     Resource Tab for Risque
 // @version  1.0
 // @grant    none
 // @description  Adds a Resource "Tab" back to Risque
