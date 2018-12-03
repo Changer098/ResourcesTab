@@ -8,7 +8,6 @@
 // @downloadURL  https://github.com/Changer098/ResourcesTab/raw/master/ResourceTab.user.js
 // @include	 http://risque.itap.purdue.edu/*
 // @include      https://risque.itap.purdue.edu/*
-// @include      https://risque.itap.purdue.edu/Tracker/Schedule/Default.aspx
 // ==/UserScript==
 console.log("Loaded ResourceTab script");
 document.addEventListener('DOMContentLoaded', function() {
