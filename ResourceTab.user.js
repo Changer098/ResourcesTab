@@ -2,6 +2,7 @@
 // @name     ResourceTab
 // @version  1.0
 // @grant    none
+// @description  Adds a Resource "Tab" back to Risque
 // @require	 https://cdn.jsdelivr.net/npm/micromodal/dist/micromodal.min.js
 // @updateURL    https://github.com/Changer098/ResourcesTab/raw/master/ResourceTab.user.js
 // @downloadURL  https://github.com/Changer098/ResourcesTab/raw/master/ResourceTab.user.js
