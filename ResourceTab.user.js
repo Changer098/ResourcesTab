@@ -217,11 +217,15 @@ function addButton() {
 	var lastIndex = -1;
 	for (var i = 0; i < contents.length; i++) {
 		var element = contents[i];
-		if (element.style.length > 0) {
+		if (element.textContent == "Tickets") {
+			lastIndex = i;
+		      break;
+		    }
+		/*if (element.style.length > 0) {
 			//found the index of the right side
 			lastIndex = i;
 			break;
-		}
+		}*/
 	}
 	if (lastIndex != -1) {
 		contents[lastIndex].parentNode.insertBefore(button, contents[lastIndex])
