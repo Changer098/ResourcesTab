@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Resource Tab for Risque
-// @version  1.1
+// @version  0.1
 // @grant    none
 // @description  Adds a Resource "Tab" back to Risque
 // @require	 https://cdn.jsdelivr.net/npm/micromodal/dist/micromodal.min.js
