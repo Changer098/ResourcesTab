@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Resource Tab for Risque
-// @version  1.0
+// @version  1.0`
 // @grant    none
 // @description  Adds a Resource "Tab" back to Risque
 // @require	 https://cdn.jsdelivr.net/npm/micromodal/dist/micromodal.min.js
@@ -9,7 +9,7 @@
 // @include	 http://risque.itap.purdue.edu/*
 // @include      https://risque.itap.purdue.edu/*
 // ==/UserScript==
-console.log("Loaded ResourceTab script");
+console.log("Loaded ResourceTab script UPDATED");
 document.addEventListener('DOMContentLoaded', function() {
   ready();
 });
