@@ -25,3 +25,5 @@ User Script for adding a Resources "Tab" back to risque
 [Install ResourcesTab.js](https://github.com/Changer098/ResourcesTab/raw/master/ResourceTab.user.js)
 
 ## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/Changer098/ResourcesTab/master/resources-screenshot.PNG "Screenshot")
