@@ -11,8 +11,6 @@ Use one of these user-script engines for your browser of choice.
 | Chrome  | [![Tampermonkey](https://addons.cdn.mozilla.net/user-media/addon_icons/683/683490-64.png?modified=1536869578)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/?src=search) [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/?src=search) |  |
 | Edge    | [![Tampermonkey](https://addons.cdn.mozilla.net/user-media/addon_icons/683/683490-64.png?modified=1536869578)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/?src=search) [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/?src=search) | |
 
-[Install ResourcesTab.js](https://github.com/Changer098/ResourcesTab/raw/master/ResourceTab.user.js)
-
 ## Scripts
 
 - [ResourcesTab](ResourcesTab/)
