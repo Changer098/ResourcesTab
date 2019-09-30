@@ -1,5 +1,5 @@
-# ResourcesTab
-User Script for adding a Resources "Tab" back to risque
+# RisqueScripts
+User scripts for the Risque webpage.
 
 ## Browser plugin matrix
 
